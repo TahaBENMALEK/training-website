@@ -7,7 +7,7 @@ const nutritionPrograms = [
     { coach: 'Coach B', rating: 4.8, program: 'Healthy Recipes Video', image: 'path/to/coachB.jpg' },
     { coach: 'Coach C', rating: 4.2, program: '1-on-1 Nutrition Coaching', image: 'path/to/coachC.jpg' },
 ];
-
+//in this page we can see the nutrition programs
 const Nutrition = () => {
     return (
         <div className="nutrition-page p-4">
