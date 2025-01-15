@@ -1,6 +1,6 @@
 import React from 'react';
 import LargeNav from '../components/Communityy/LargeNav';
-
+//in this page we can see the workshops
 const Workshop = () => {
     return (
         <div className="flex bg-gray-200 min-h-screen">
