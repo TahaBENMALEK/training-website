@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
 import fondo from "../images/fondo.jpg"
+//this is the banner of the home page
 const Banner = () => {
   return (
     <>
