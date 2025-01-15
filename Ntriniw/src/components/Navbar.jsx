@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import { FaFacebook } from "react-icons/fa6";
 import { FaInstagram } from "react-icons/fa6";
 import LogoNtriniw from "../images/logontriniw.png";
-
+//this is the navbar
 const Navbar = () => {
   return (
     <header className="bg-black" >
