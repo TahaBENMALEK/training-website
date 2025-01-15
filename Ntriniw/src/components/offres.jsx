@@ -3,7 +3,7 @@ import photo1 from "../images/offres/photo1.png"
 import photo2 from "../images/offres/photo2.jpeg"
 import photo3 from "../images/offres/photo3.jpeg"
 import photo4 from "../images/offres/photo4.png"
-
+//this is the offers page
 const Offres = () => {
   return (
     <div className="bg-white py-16">
