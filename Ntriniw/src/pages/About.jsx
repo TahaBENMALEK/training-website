@@ -1,6 +1,5 @@
 import React from 'react'
-import { Link } from 'react-router-dom';
-import Sorties from '../components/Stories.jsx'
+import Stories from '../components/Stories.jsx'
 import Offres from '../components/offres.jsx'
 import fondo from '../images/fondo.jpg'
 
@@ -13,7 +12,7 @@ const About = () => {
             <p className="text-gray-100 mx-auto mb-5">   </p>
         </div>
     </div>
-    <Sorties/>
+    <Stories/>
     <Offres/>
     </div>
   )
