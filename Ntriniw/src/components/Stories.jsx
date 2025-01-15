@@ -2,7 +2,7 @@ import React from 'react'
 import Workshop from "../images/workshop.jpeg"
 import { Link } from 'react-router-dom'
 import Workshops from "../pages/Workshops.jsx"
-
+//this is the stories page
 const Stories = () => {
   return (
     <div className="h-auto w-full bg-gray-800">
