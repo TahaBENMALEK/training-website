@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import LargeNav from '../components/Communityy/LargeNav';
-
+//in this page we have the profile page of the user who is logged in
 const Profile = () => {
     const [profileType, setProfileType] = useState(null);
 
