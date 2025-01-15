@@ -13,7 +13,7 @@ const Stories = () => {
             <Link to="/Workshops" className="text-white font-bold hover:text-cyan-300 mt-4">Learn more</Link>
             </div>
         </div>
-        </div>
+    </div>
   )
 }
 
