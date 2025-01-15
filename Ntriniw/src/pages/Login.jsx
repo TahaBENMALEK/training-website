@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import '../styles/Login.css'
 import { FaUserAlt, FaLock } from "react-icons/fa";
 import { MdEmail } from "react-icons/md";
-
+//in this page we have a login form
 const Login = () => {
   const [action, setAction] = useState("Login");
   
