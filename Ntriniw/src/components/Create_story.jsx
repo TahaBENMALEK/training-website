@@ -1,5 +1,5 @@
 import React from 'react';
-
+//this is the stories page
 const Stories = () => {
     return (
         <div className="flex bg-gray-200 min-h-screen">
