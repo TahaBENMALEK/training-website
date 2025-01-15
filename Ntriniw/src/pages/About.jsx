@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
-import Sorties from '../components/Sorties.jsx'
+import Sorties from '../components/Stories.jsx'
 import Offres from '../components/offres.jsx'
 import fondo from '../images/fondo.jpg'
 

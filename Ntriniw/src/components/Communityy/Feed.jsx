@@ -3,6 +3,7 @@ import Stories from './Stories'
 import FeedCard from './FeedCard'
 
 const Feed = () => {
+  
   return (
     <div className="py-7 flex items-start gap-x-20">
         <div className="w-full h-auto">

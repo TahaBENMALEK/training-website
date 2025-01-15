@@ -1,11 +1,13 @@
 import React from 'react'
 import Banner from '../components/Banner.jsx'
-import Sorties from '../components/Sorties.jsx'
+import Stories from '../components/Stories.jsx'
 import Offres from '../components/offres.jsx'
 
 const Home = () => {
   return (<>
-  <Banner/>
+    <Stories/>
+    <Offres/>
+    <Banner/>
     </>
   )
 }
