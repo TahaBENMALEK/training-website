@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import trainingImage from '../images/training.jpg'; // Ensure this image exists
-
+//in this page we can see the training programs
 const trainingPrograms = [
     { coach: 'Coach D', rating: 4.7, program: 'Strength Training PDF', image: '../images/training.jpg' },
     { coach: 'Coach E', rating: 4.9, program: 'Workout Video Series', image: '../images/training.jpg' },
